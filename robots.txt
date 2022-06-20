@@ -1,0 +1,17 @@
+User-agent: *
+Allow: /img/
+Disallow: /js/
+Disallow: /css/
+Disallow: /php/
+Disallow: /fonts/
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Yandex
+Allow: /img/
+Disallow: /js/
+Disallow: /css/
+Disallow: /php/
+Disallow: /fonts/
+Host: fasahkumys.ru
