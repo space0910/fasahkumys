@@ -1,17 +1,19 @@
 User-agent: *
-Allow: /img/
+Allow: /images/
 Disallow: /js/
 Disallow: /css/
 Disallow: /php/
 Disallow: /fonts/
+Disallow: /files/
 
 User-agent: Googlebot
 Allow: /
 
 User-agent: Yandex
-Allow: /img/
+Allow: /images/
 Disallow: /js/
 Disallow: /css/
 Disallow: /php/
 Disallow: /fonts/
+Disallow: /files/
 Host: fasahkumys.ru
